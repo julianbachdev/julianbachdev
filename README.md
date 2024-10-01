@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julianbachdev a full-time software engineer in the making, with a background in music, video and sound engineering. I started coding in 2021, and ever since, I've been passionately building projects and diving deep into tech.
-- 👀 I’m interested in software Engineering, Music, Singing, Guitar and videography.
+- 👀 I’m interested in Software Engineering, Music, Singing, Guitar and videography.
 - 🌱 I’m currently learning React JS, Tailwind, Next JS and React Native.
 - 💞️ I’m looking to collaborate on React and frontend projects, Innovative apps that blend creative and technical disciplines, Open-source contributions that enhance the developer experience
 - 📫 How to reach me: email: julianrbach@gmail.com
